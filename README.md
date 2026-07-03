@@ -23,4 +23,6 @@ git config --list <br>
 17. open your terminal and give below cmd one by one: <br>
 git add . <br>
 git commit -m "give a msg" v
-git push origin main (main --> branch name
+git push origin main (main --> branch name {check your working brach first and after tha t write the branch name})
+repeat the cycle
+edit files --> git add . --> git commit -m "give a msg" --> git push origin main --> edit files
